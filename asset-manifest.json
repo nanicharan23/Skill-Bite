@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Skill-Bite/static/css/main.ba65b8fa.css",
-    "main.js": "/Skill-Bite/static/js/main.7f33015e.js",
+    "main.js": "/Skill-Bite/static/js/main.bbc07dda.js",
     "static/js/787.094772e9.chunk.js": "/Skill-Bite/static/js/787.094772e9.chunk.js",
     "static/media/global.png": "/Skill-Bite/static/media/global.43e8880011ddcb6dc89f.png",
     "static/media/binary-code.png": "/Skill-Bite/static/media/binary-code.a49f1eba149fbe9295be.png",
@@ -9,11 +9,11 @@
     "static/media/java.png": "/Skill-Bite/static/media/java.f5dd86c3ef6ef3f85acf.png",
     "index.html": "/Skill-Bite/index.html",
     "main.ba65b8fa.css.map": "/Skill-Bite/static/css/main.ba65b8fa.css.map",
-    "main.7f33015e.js.map": "/Skill-Bite/static/js/main.7f33015e.js.map",
+    "main.bbc07dda.js.map": "/Skill-Bite/static/js/main.bbc07dda.js.map",
     "787.094772e9.chunk.js.map": "/Skill-Bite/static/js/787.094772e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba65b8fa.css",
-    "static/js/main.7f33015e.js"
+    "static/js/main.bbc07dda.js"
   ]
 }
