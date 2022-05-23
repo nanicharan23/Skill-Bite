@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Skill-Bite/static/css/main.f376f70d.css",
+    "main.js": "/Skill-Bite/static/js/main.b54c207f.js",
+    "static/js/787.094772e9.chunk.js": "/Skill-Bite/static/js/787.094772e9.chunk.js",
+    "static/media/global.png": "/Skill-Bite/static/media/global.43e8880011ddcb6dc89f.png",
+    "static/media/binary-code.png": "/Skill-Bite/static/media/binary-code.a49f1eba149fbe9295be.png",
+    "static/media/database.png": "/Skill-Bite/static/media/database.eef579bb3146b6aa7218.png",
+    "static/media/house.png": "/Skill-Bite/static/media/house.5c97c300db8c26b007a2.png",
+    "static/media/java.png": "/Skill-Bite/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "index.html": "/Skill-Bite/index.html",
+    "main.f376f70d.css.map": "/Skill-Bite/static/css/main.f376f70d.css.map",
+    "main.b54c207f.js.map": "/Skill-Bite/static/js/main.b54c207f.js.map",
+    "787.094772e9.chunk.js.map": "/Skill-Bite/static/js/787.094772e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f376f70d.css",
+    "static/js/main.b54c207f.js"
+  ]
+}
