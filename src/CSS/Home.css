@@ -1,3 +1,7 @@
 .home{
     display:none;
 }
+
+.emoji-text{
+    font-weight: 100;
+}
