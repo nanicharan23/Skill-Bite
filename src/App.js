@@ -1,23 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import React, {useState} from 'react';
 
-function App() {
+//Components
+import Nav from './Components/Nav.js'
+import Home from './Components/Home.js'
+import Java from './Components/Java.js'
+import OperatingSystems from './Components/OperatingSystems.js'
+import ComputerNetworks from './Components/ComputerNetworks.js'
+import Dbms from './Components/Dbms.js'
+
+//CSS
+import './App.css';
+import './CSS/Home.css'
+
+function App() { 
+  let display = new Map([
+    ["home",true],
+    ["java",false],
+    ["os",false],
+    ["cn",false],
+    ["dbms",false]
+  ]);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Nav/>
     </div>
   );
 }
